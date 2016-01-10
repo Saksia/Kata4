@@ -1,9 +1,9 @@
 
-package kata4v2;
+package kata4;
 
 import java.io.File;
 
-public class Kata4v2 {
+public class Kata4 {
 
     public static void main(String[] args) {
        File file = new File ("C:\\Users\\usuario\\Desktop");
